@@ -1,2 +1,5 @@
-# webhook-spammer
-not a rat im not a weirdo, kind of rushed so dm me if there's any problems username on discord is _zys__
+**Disclaimer:**
+
+This executable file (ZyanHook.exe) might trigger antivirus warnings due to the use of PyInstaller to create a standalone executable.
+Please be aware of this potential issue before running the executable.
+I'm not trying to rat people just felt like making this
